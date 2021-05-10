@@ -1,0 +1,6 @@
+# Raspberry
+An IoT project collecting the heartbeat of an individual and sending the results to Google cloud
+Project is important since it enables a doctor keep track of a patient's heartbeat so as to ensure that medication is provided in a timely manner.
+The project utilizes a raspberry and a heart rate sensor. 
+
+
